@@ -15,9 +15,5 @@ Here’s a glimpse of the technologies I work with.
 Here’s a quick snapshot of my GitHub activity and the technologies I work with most often.
 The widgets below show my overall contributions, coding streaks, and favorite languages — a small window into the projects and stacks I enjoy building with.
 
-<div style="margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=okan-ozbek&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=okan-ozbek&theme=github_dark_dimmed&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okan-ozbek&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okan-ozbek&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
